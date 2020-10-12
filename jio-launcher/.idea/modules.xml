@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="jio-launcher/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jio-launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/jio-launcher.iml" group="jio-launcher" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jio-launcher_buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/jio-launcher_buildSrc.iml" group="jio-launcher/jio-launcher_buildSrc" />
+    </modules>
+  </component>
+</project>
